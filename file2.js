@@ -1,0 +1,1 @@
+console.log('Welcome to javascript, working on git commands')
